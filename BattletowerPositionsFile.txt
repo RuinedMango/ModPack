@@ -10,24 +10,18 @@
 # that is possible via commands /regenerateallbattletowers and /deleteallbattletowers.
 # do not change values once towers have spawned! Either do that before creating a World (put this file in a world named folder)...
 # ... or use /deletebattletowers, exit the game, modify this file any way you want, load the world, then use /regeneratebattletowers!
--704 62 -752 1 true
--656 62 -560 2 false
--544 69 -304 1 false
--496 70 -944 5 false
--448 66 -752 1 true
--448 62 -528 2 false
--272 80 368 5 false
--224 62 -736 2 false
--224 62 176 2 false
--128 68 512 1 false
--48 67 -160 5 false
--16 81 336 1 true
-64 83 80 5 false
-144 71 -224 3 false
-176 69 288 5 false
-224 62 912 2 false
-272 62 112 2 false
-304 86 -96 1 false
-336 76 432 1 false
-432 71 256 1 false
-464 62 48 2 false
+-112 62 -64 2 false
+-112 62 144 2 false
+16 62 304 2 false
+64 62 32 2 false
+192 62 192 2 false
+240 62 -64 2 false
+304 62 -384 2 false
+432 62 -544 2 false
+512 63 -864 5 false
+608 62 -1120 1 false
+624 84 -464 1 true
+768 68 -944 5 false
+816 62 -736 2 false
+1056 69 -32 5 false
+1136 64 208 1 false

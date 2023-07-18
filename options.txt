@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 clouds:false
-resourcePacks:[]
+resourcePacks:["YoutubersSkin","Aether b1.7.3 Textures"]
 lastServer:
 lang:en_US
 chatVisibility:0
@@ -134,11 +134,6 @@ key_key.enderpearl:44
 key_key.enderchest:23
 key_key.hotbar:35
 key_key.opinventory:48
-key_key.primitivemobs.desc:38
-key_Baubles Inventory:48
-key_Change Wand Focus:33
-key_Activate Hover Harness:35
-key_Misc Wand Toggle:34
 key_key.dss.activate.desc:45
 key_key.dss.next.desc:15
 key_key.dss.attack.desc:200
@@ -153,6 +148,10 @@ key_key.cameraZoomIn:13
 key_key.cameraZoomOut:12
 key_key.cameraEmitRedstone:0
 key_key.cameraActivateNightVision:49
+key_Baubles Inventory:48
+key_Change Wand Focus:33
+key_Activate Hover Harness:35
+key_Misc Wand Toggle:34
 key_key.aether.accessory_menu:23
 key_Turn on/off Growth Amulet:34
 key_waila.keybind.wailaconfig:82
@@ -204,6 +203,7 @@ key_Cycle Tool Backward (MPS):-1
 key_Cycle Tool Forward (MPS):-1
 key_Zoom (MPS):21
 key_Cosmetic (MPS):-1
+key_key.primitivemobs.desc:38
 key_key.secretroomsmod.oneWayface:43
 key_key.erebus.glide:34
 key_key.erebus.poweredGlide:33
